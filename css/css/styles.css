@@ -1,0 +1,16 @@
+body {
+    background-color:#800080;
+}
+
+hr {
+ background-color: rgb(240, 232, 229) ; 
+ border-style: none;
+ border-top-style:dotted;  
+ border-width: 10px;
+ height: 0px;
+ border width: 10px;
+ width: 10%;
+}
+hgroup {
+    background-color: royalblue;
+}
